@@ -8,3 +8,4 @@ Para la parte 2 utilice create react app para generar la aplicacion. Para correr
 La parte 3,6 y parte de la 7 se encuentran en el archivo PDF enviado por correo
 La parte 4,5 y 8 se encuentran en carpetas que llevan ese mismo nombre
 
+Espero les guste mi solucion y gracias por la oportunidad ;)
